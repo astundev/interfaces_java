@@ -5,5 +5,5 @@
     android:minHeight="110dip"
     android:label="@string/mi_primer_widget"
     android:updatePeriodMillis="3600000"
-    android:configure="net.sgoliver.android.widgets.WidgetConfig"
+    android:configure="net.astundev.android.widgets.WidgetConfig"
 />

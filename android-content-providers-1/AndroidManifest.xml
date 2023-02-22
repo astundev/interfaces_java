@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="net.sgoliver.android.contentproviders.MainActivity"
+            android:name="net.astundev.android.contentproviders.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,7 +24,7 @@
         </activity>
         
         <provider android:name="ClientesProvider"
-        	android:authorities="net.sgoliver.android.contentproviders"/>
+        	android:authorities="net.astundev.android.contentproviders"/>
         
     </application>
 
